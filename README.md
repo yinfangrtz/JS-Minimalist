@@ -3,6 +3,8 @@
 
 The Minimalist List project is a simple JavaScript application that helps you manage your todo/word/shopping list with ease. It offers a clean and intuitive user interface design, allowing you to quickly add and remove items from your list.
 
+![image](https://github.com/yinfangrtz/JS-Minimalist/assets/106718273/477dbea0-cebb-4b3b-843a-48a949285834)
+
 Features
 
 Add Items: Enter the items you need to buy into the input field and click the "Add" button to add them to your shopping list.
